@@ -1,0 +1,42 @@
+[
+    {
+      "Device": "WT-07",
+      "StartTime": "2020-12-04 03:06:10",
+      "ResolutionTime": "2020-12-04 12:02:21",
+      "DurationOfAlarm": "8 hrs, 56 min, 10 sec",
+      "Category": "Brake",
+      "AlarmCode": "1280",
+      "Description": "Hydraulic brake test acc",
+      "ContractualAvailability": "Available",
+      "AlarmLevel": "Alarm",
+      "AlarmOrder": "Primary",
+      "UpdatedBy": "Sahil"
+    },
+    {
+      "Device": "WT-05",
+      "StartTime": "2020-12-04 02:30:00",
+      "ResolutionTime": "2020-12-04 02:53:47",
+      "DurationOfAlarm": "23 min, 46 sec",
+      "Category": "Brake",
+      "AlarmCode": "1280",
+      "Description": "Hydraulic brake test acc",
+      "ContractualAvailability": "Unavailable",
+      "AlarmLevel": "Alarm",
+      "AlarmOrder": "Primary",
+      "UpdatedBy": "Sahil"
+    },
+    {
+      "Device": "WT-07",
+      "StartTime": "2020-12-04 01:46:55",
+      "ResolutionTime": "2020-12-04 01:49:33",
+      "DurationOfAlarm": "2 min, 37 sec",
+      "Category": "Brake",
+      "AlarmCode": "1280",
+      "Description": "Hydraulic brake test acc",
+      "ContractualAvailability": "Unavailable",
+      "AlarmLevel": "Alarm",
+      "AlarmOrder": "Primary",
+      "UpdatedBy": "Anod"
+    }
+  ]
+  
